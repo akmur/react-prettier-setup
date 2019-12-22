@@ -1,0 +1,32 @@
+{
+  "name": "prettier-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier-eslint": "^9.0.1",
+    "prettier-stylelint": "^0.4.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "stylelint": "^12.0.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-prettier": "^1.1.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.12.0",
+    "@typescript-eslint/parser": "^2.12.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-react-app": "^5.1.0",
+    "eslint-plugin-flowtype": "^3.13.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}
